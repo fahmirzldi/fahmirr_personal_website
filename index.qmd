@@ -1,13 +1,35 @@
 ---
-title: "FahmiRR"
+title: "Fahmi Rizaldi"
 listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  sort-ui: false
-  filter-ui: true
-page-layout: full
-title-block-banner: true
+  - id: posts
+    contents: posts/*/index.qmd
+    type: grid
+    fields: [image, date, title]
+    sort: "date desc"
+    #categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+page-layout: article
+title-block-banner: false
+comments: false
+toc: false
+about:
+  template: marquee
+  links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:fahmi.rizaldi@pusan.ac.kr
+    - icon: github
+      text: Github
+      href: https://github.com/fahmirzldi 
 ---
 
+Hello! Welcome to my website. Here you can find my recent blogpost regarding my research and my personal academic notes
 
+------------------------------------------------------------------------
+
+## Recent posts
+
+::: {#posts}
+:::
