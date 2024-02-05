@@ -3,36 +3,18 @@ title: "Fahmi Rizaldi"
 about:
   id: hero-heading
   template: jolla
-  image: profile.jpg
+  image: profile_picture.jpeg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: envelope-at
+      text: Email
+      href: mailto:fahmi.rizaldi@pusan.ac.kr
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/fahmirzldi
 ---
 
-### This content appears above the formatted about page content.
+Hi! I am Fahmi (파흐미). I am a Master Student at the [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), majoring in Computer Science.
 
-:::{#hero-heading}
+Currently I am working as a Research Student under [Professor Kwon Joonho](https://datalab.pusan.ac.kr/datalab/26747/subview.do) at the [Data Science Laboratory](https://datalab.pusan.ac.kr/datalab/26742/subview.do).
 
-Fahmi
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
+My research is about Anomaly Detection.
