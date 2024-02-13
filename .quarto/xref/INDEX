@@ -13,5 +13,8 @@
   },
   "posts/index.qmd": {
     "index.html": "191eecb8"
+  },
+  "posts/fastai-lesson3-recreate/index.qmd": {
+    "index.html": "2f094dbb"
   }
 }
